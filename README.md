@@ -1,4 +1,4 @@
-# yapt-g-m-arduino-kodum
+# yaptigim-arduino-kodum
 arduino led yakma programım
 void setup() {
   pinMode(13, OUTPUT); // 13 numaralı pin çıkış olarak ayarlandı
